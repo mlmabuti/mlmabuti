@@ -7,7 +7,7 @@
 * 🔭 I’m presently working on **personal projects**.
 * 🌱 I’m currently learning **NodeJS, DSA, and high school maths**.
 * 🤔 Interested in **Jake's perfect sandwich, CS, and SWE**.
-* 🌐 Visit my website: <a href="https://waffolabs.space"> <strong>waffolabs.space</strong> <img src="https://i.ibb.co/m67zjZN/Waffo-Labs-Logo.gif" width="15" height="15" /> </a>
+* 🌐 Visit my website: <a href="https://www.waffolabs.space"> <strong>waffolabs.space</strong> <img src="https://i.ibb.co/m67zjZN/Waffo-Labs-Logo.gif" width="15" height="15" /> </a>
 <!-- [![Protonmail](https://img.shields.io/badge/-ProtonMail-gray?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:########@protonmail.com) -->
 [![Dev](https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=ffffff)](https://dev.to/axojolotl)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/marjolo-mabuti-884177229/)
