@@ -4,7 +4,7 @@
 
 <p>Welcome to my remote storage 📦 for subpar authorship 💻. I'd greatly appreciate written issues 🔍 and pull requests 📩.</p>
 
-* 🔭 I’m presently working on **personal projects**.
+* 🔭 I’m currently working on **my school workload and personal projects**.
 * 🌱 I’m currently learning **NodeJS, DSA, and high school maths**.
 * 🤔 Interested in **Jake's perfect sandwich, CS, and SWE**.
 * 🌐 Visit my website: <a href="https://www.waffolabs.space"> <strong>waffolabs.space</strong> <img src="https://i.ibb.co/m67zjZN/Waffo-Labs-Logo.gif" width="15" height="15" /> </a>
