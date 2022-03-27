@@ -5,8 +5,8 @@
 <p>Welcome to my remote storage 📦 for subpar authorship 💻. I'd greatly appreciate written issues 🔍 and pull requests 📩.</p>
 
 * 🔭 I’m currently working on **my school workload and personal projects**.
-* 🌱 I’m currently learning **Django, and DSA**.
-* 🤔 Interested in **Jake's perfect sandwich, CS, Linux, Robotics, and SWE**.
+* 🌱 I’m currently learning **DSA**.
+* 🤔 Interested in **Jake's perfect sandwich, CS, SWE, Linux, Robotics, and movies**.
 * 🌐 Visit my website: <a href="https://www.waffolabs.space"> <strong>www.waffolabs.space</strong> <img src="https://i.ibb.co/m67zjZN/Waffo-Labs-Logo.gif" width="15" height="15" /> </a>
 <!-- [![Protonmail](https://img.shields.io/badge/-ProtonMail-gray?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:########@protonmail.com) -->
 [![Dev](https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=ffffff)](https://dev.to/axojolotl)
