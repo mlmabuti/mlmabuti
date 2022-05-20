@@ -1,6 +1,6 @@
 <h2> Hello World! <a href="#"><img src="https://i.ibb.co/4K1VJ4h/Earth.gif" width="20"> <img align="right" src="https://komarev.com/ghpvc/?username=axojolotl&color=191919&label=Profile+Views&style=flat-square" alt="visitors"></a> </h2> 
 
-<a href="#"><img align="right" src="https://c.tenor.com/hVmM21uY9hEAAAAM/homer-simpson.gif" width="290" /></a>
+<!--<a href="#"><img align="right" src="https://c.tenor.com/hVmM21uY9hEAAAAM/homer-simpson.gif" width="290" /></a> -->
 
 <p>Welcome to my remote storage 📦 for subpar authorship 💻. I'd greatly appreciate written issues 🔍 and pull requests 📩.</p>
 
