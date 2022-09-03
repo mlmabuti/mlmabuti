@@ -5,7 +5,7 @@
 <p>Welcome to my remote storage 📦 for subpar authorship 💻. I'd greatly appreciate written issues 🔍 and pull requests 📩.</p>
 
 * 🔭 I’m currently working on **my school workload and personal projects**.
-* 🌱 I’m currently learning **Javascript**.
+* 🌱 I’m currently learning **React and Django**.
 * 🤔 Interested in **Jake's perfect sandwich**.
 * 🌐 Visit my website: <a href="https://www.waffolabs.space"> <strong>www.waffolabs.space</strong> <img src="https://i.ibb.co/m67zjZN/Waffo-Labs-Logo.gif" width="15" height="15" /> </a>
 <!-- [![Protonmail](https://img.shields.io/badge/-ProtonMail-gray?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:########@protonmail.com) -->
