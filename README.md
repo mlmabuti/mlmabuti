@@ -1,34 +1,13 @@
-
 <a href="#" >
-<h2> Hello World! <img src="https://i.ibb.co/4K1VJ4h/Earth.gif" width="20">  <img align="right" src="https://komarev.com/ghpvc/?username=axojolotl&color=191919&label=Profile+Views&style=flat-square" alt="visitors"> </h2>  
+<h1> Hello World! <img src="https://i.ibb.co/4K1VJ4h/Earth.gif" width="20">  <img align="right" src="https://komarev.com/ghpvc/?username=axojolotl&color=191919&label=Profile+Views&style=flat-square" alt="visitors"> </h1>  
 </a> 
 
-<!--
+<p style="margin:0px;height:32px;max-idth:100%;float:left;overflow:auto;"> Welcome to my remote storage 📦 for subpar authorship 💻. I'd greatly appreciate written issues 🔍 and pull requests 📩. </p>
 
+<a href="mailto:marjolo.mabuti@neu.edu.ph" > <img align="left" alt="GMail" width="24px" style="padding-right:5px;" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/> </a>
 
-<a href="#">
-<img align="right" src="https://c.tenor.com/hVmM21uY9hEAAAAM/homer-simpson.gif" width="290" />
-</a>
+<a href="https://www.linkedin.com/in/marjolo-mabuti/"> <img align="left" alt="LinkedIn" width="24px" style="padding-right:5px;" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /> </a>
 
-<a href="#" >
-<img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="25" align="left">
-</a> 
+<a href="https://open.spotify.com/user/31tohf4ttkssdgrt7dfi7bvsq4ry" > <img align="left" alt="Spotify" width="24px" style="padding-right:5px;" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" /> </a>
 
--->
-
-
-<p style="margin:0px;height:32px;max-idth:100%;float:left;overflow:auto;"> Welcome to my remote storage 📦 for subpar authorship 💻. I'd greatly appreciate written issues 🔍 and pull requests 📩 </p>
-
- 
-</a>
-
-
-<!-- 
-[![Protonmail](https://img.shields.io/badge/-ProtonMail-gray?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:########@protonmail.com)
-[![Dev](https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=ffffff)](https://dev.to/axojolotl)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/marjolo-mabuti/)
-[![Discord](https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discordapp.com/users/566800614189694978)
-[![Spotify](https://img.shields.io/badge/-Spotify-darkgreen?style=for-the-badge&logo=spotify&logoColor=ffffff)](https://open.spotify.com/user/31tohf4ttkssdgrt7dfi7bvsq4ry)
-
-![Axojolotl's GitHub stats](https://github-readme-stats.vercel.app/api?username=axojolotl&show_icons=true&theme=dark)
-->
+<a href="https://discordapp.com/users/566800614189694978" > <img align="left" alt="Discord" width="24px" style="padding-right:5px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" /> </a>
