@@ -1,5 +1,5 @@
 <a href="#" >
-<h1> Hello World! <img src="https://i.ibb.co/4K1VJ4h/Earth.gif" width="20">  <img align="right" src="https://komarev.com/ghpvc/?username=axojolotl&color=191919&label=Profile+Views&style=flat-square" alt="visitors"> </h1>  
+<h1> Hello World! <img src="https://i.ibb.co/4K1VJ4h/Earth.gif" width="20"> </h1>  
 </a> 
 
 <p style="margin:0px;height:32px;max-idth:100%;float:left;overflow:auto;"> Welcome to my remote storage 📦 for subpar authorship 💻. I'd greatly appreciate written issues 🔍 and pull requests 📩. </p>
