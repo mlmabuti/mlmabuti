@@ -1,8 +1,10 @@
-<a href="#" >
-<h1> Hello World! <img src="https://i.ibb.co/4K1VJ4h/Earth.gif" width="20"> </h1>  
-</a> 
+![github-header-image (4)](https://user-images.githubusercontent.com/72655919/225532748-042c4629-a1e7-4749-83d6-1d5b75b990e2.png)
 
-<p style="margin:0px;height:32px;max-idth:100%;float:left;overflow:auto;"> Welcome to my remote storage 📦 for subpar authorship 💻. I'd greatly appreciate written issues 🔍 and pull requests 📩. </p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+## Explore <img src="https://i.ibb.co/4K1VJ4h/Earth.gif" width="24">
 
 <a href="https://jojosordinaryadventure.hashnode.dev/" > <img align="left" alt="Hashnode" width="24px" style="padding-right:5px;" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" /> </a> **Hashnode** : Read my blog posts.
 
