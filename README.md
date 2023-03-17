@@ -1,4 +1,5 @@
-![github-header-image (4)](https://user-images.githubusercontent.com/72655919/225532748-042c4629-a1e7-4749-83d6-1d5b75b990e2.png)
+![github-header-image (7)](https://user-images.githubusercontent.com/72655919/226063729-f4051cc2-0ee3-47d6-ae47-4fc9fcbd8cff.png)
+
 
 ## Explore <img src="https://i.ibb.co/4K1VJ4h/Earth.gif" width="24">
 
