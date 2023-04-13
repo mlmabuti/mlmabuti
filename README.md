@@ -1,6 +1,3 @@
-![github-header-image (7)](https://user-images.githubusercontent.com/72655919/226063729-f4051cc2-0ee3-47d6-ae47-4fc9fcbd8cff.png)
-
-
 ## Explore <img src="https://i.ibb.co/4K1VJ4h/Earth.gif" width="24">
 
 <a href="https://jojosordinaryadventure.hashnode.dev/" > <img align="left" alt="Hashnode" width="24px" style="padding-right:5px;" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" /> </a> **Hashnode** : Read my blog posts.
